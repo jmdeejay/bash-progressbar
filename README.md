@@ -66,7 +66,7 @@ total → total number of steps/items
 
 ## Configuration
 
-You can customize the bar characters and colors by setting these variables before calling pb_update:
+You can customize the bar characters by setting these variables before calling pb_update:
 
 ``` bash
 PB_PREFIX='Progress: '
