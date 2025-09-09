@@ -39,6 +39,8 @@ done
 Progress: [50%] [####################....................]
 ```
 
+![b136c53cdacf4ed6be50aa1233163166](https://github.com/user-attachments/assets/aa87cd86-27ed-487d-a39c-fd1664b149b7)
+
 
 ## API
 
@@ -56,7 +58,7 @@ You can call it manually if you want to stop displaying the progress bar before 
 ### pb_update <current> <total>
 
 Updates the progress bar. \
-The bar will refresh in-place at the bottom of the terminal. \
+The bar will refresh in-place at the bottom of the terminal.
 
 current → current step or item number \
 total → total number of steps/items
